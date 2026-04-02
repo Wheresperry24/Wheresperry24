@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Wheresperry24
-- 👀 I’m interested in ...SDL2 engine developmemt
-- 🌱 I’m currently learning ...SDL2 engine developmemt
+- 👋 Hi, I’m @noweshere
+- 👀 I’m interested in stuff
+- 🌱 I’m currently learning WebDev and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
